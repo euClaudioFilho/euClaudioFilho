@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="justify"> 
  Olá! 👋 Meu nome é Claudio, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Minha jornada na programação começou durante a pandemia, quando tive meu primeiro contato com o mundo dos códigos. Em uma chamada com alguns amigos que já eram profissionais na área, fui apresentado a um projeto pessoal que um dos meus amigos estava desenvolvendo. Quando me deparei com aquela tela preta cheia de tags, scripts e comandos que eu mal conseguia entender, me despertou uma enorme curiosidade em como tudo aquilo funcionava. Meu amigo se prontificou a me explicar algumas coisas básicas sobre o assunto, e com o tempo fui gostando cada vez mais daquilo que aprendia. Desde então tenho me dedicado a estudar e aprimorar minhas habilidades cada vez mais na área de Desenvolvimento Web.
 </p>
 
