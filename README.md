@@ -10,13 +10,16 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-184466?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-184466?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/MySQL-184466?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/JavaScript-184466?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> 
+    <img src="https://img.shields.io/badge/Node.js-184466?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/React-184466?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
 </div>
 <br>
 <div>
     <p align="left"><b>Aprendendo:</b></p>
-    <img src="https://img.shields.io/badge/PHP-184466?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/React-184466?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+    <img src="https://img.shields.io/badge/Python-184466?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/React%20Native-184466?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </div>
 
 <br>
